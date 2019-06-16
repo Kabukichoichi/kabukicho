@@ -4,6 +4,8 @@
 我们是一家日系品牌的折扣店铺，
 主销 「[对子哈特](http://www.toysheart.asia)」「[NPG](https://www.ms-online.co.jp/maker-npg/)」「[EXE](https://www.ms-online.co.jp/maker-gproject/)」「[Magic Eyes](http://magiceyes.jp)」「[Tamatoys](https://www.ms-online.co.jp/maker-tamatoys/)」「[A-ONE](https://www.ms-online.co.jp/maker-aone/)」「[RIDE JAPAN](https://www.ms-online.co.jp/maker-ridejapan/)」
 
+[价格单](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=217381043541)
+-
 店铺`各负责人介绍`  `货源说明` `为什么不直接上架`
 -
 1、本店的店主为英国留学生，本职是英国某公司的HR，`店铺所销售的商品为国内的朋友公司的货物，朋友任职于公司大型的成人用品公司「XXXX」（附录1）所以能在国内发货，以较低的价格来销售货物。`
