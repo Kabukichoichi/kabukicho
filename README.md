@@ -58,3 +58,12 @@
 [店铺链接](https://shop124652346.taobao.com)  
 
 [购买链接](https://item.taobao.com/item.htm?spm=id=584929599371)  
+
+
+各平台链接
+-
+[微博](https://weibo.com/p/1005057188012002/home?from=page_100505&mod=TAB&is_all=1#place)  
+
+[Twitter](https://mobile.twitter.com/104YLS)  
+
+[知乎](https://www.zhihu.com/people/dddddd-60-78/activities)  
