@@ -2,7 +2,7 @@
 =
 
 我们是一家日系品牌的折扣店铺，
-主销 [对子哈特](http://www.toysheart.asia)  [NPG](https://www.ms-online.co.jp/maker-npg/) [EXE](https://www.ms-online.co.jp/maker-gproject/) [Magic Eyes](http://magiceyes.jp) 
+主销 「[对子哈特](http://www.toysheart.asia)」  「[NPG](https://www.ms-online.co.jp/maker-npg/) 」「[EXE](https://www.ms-online.co.jp/maker-gproject/)」 「[Magic Eyes](http://magiceyes.jp) 」
 
 店铺`各负责人介绍`  `货源说明` `为什么不直接上架`
 -
