@@ -73,6 +73,13 @@
 [Telegram](https://t.me/YLS104)  
 
 
+刺激度展示
+-
+![image](https://github.com/Kabukichoichi/kabukicho/blob/master/%E5%88%BA%E6%BF%80%E5%BA%A6/%E5%AF%B9%E5%AD%90%E5%93%88%E7%89%B9.png)
+![image](https://github.com/Kabukichoichi/kabukicho/blob/master/%E5%88%BA%E6%BF%80%E5%BA%A6/Magic%20Eyes.png)
+
+
+
 [公益梯子、机场、SS、SSR](https://www.yahahanpo.com)  
 -
 
