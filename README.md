@@ -2,7 +2,7 @@
 =
 淘宝网：歌舞伎町一丁目
 -
-我们是一家日系品牌的折扣店铺，
+我们是一家日本飞机杯、倒模、自慰器品牌的折扣店铺，
 主销 「[对子哈特](http://www.toysheart.asia)」「[NPG](https://www.ms-online.co.jp/maker-npg/)」「[EXE](https://www.ms-online.co.jp/maker-gproject/)」「[Magic Eyes](http://magiceyes.jp)」「[Tamatoys](https://www.ms-online.co.jp/maker-tamatoys/)」「[A-ONE](https://www.ms-online.co.jp/maker-aone/)」「[RIDE JAPAN](https://www.ms-online.co.jp/maker-ridejapan/)」
 
 部分网站需要[翻墙](https://zhidao.baidu.com/question/424709092060414212.html)，可参考本页底部“公益梯子”
