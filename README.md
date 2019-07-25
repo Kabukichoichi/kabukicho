@@ -7,7 +7,7 @@
 
 部分网站需要[翻墙](https://zhidao.baidu.com/question/424709092060414212.html)，可参考本页底部“公益梯子”
 
-[价格单](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=217381043541)
+[价格单](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=231952237768)
 -
 店铺`各负责人介绍`  `货源说明` `为什么不直接上架`
 -
@@ -55,7 +55,7 @@
 
 购买链接
 -
-[价格单](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=217381043541)
+[价格单](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=231952237768)
 
 [店铺链接](https://shop124652346.taobao.com)  
 
