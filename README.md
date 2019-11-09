@@ -7,7 +7,9 @@
 
 部分网站需要[翻墙](https://zhidao.baidu.com/question/424709092060414212.html)，可参考本页底部“公益梯子”
 
-[价格单](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=231952237768)
+[价格单-淘宝](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=231952237768)
+-
+[价格单-telegra-ph](https://bit.ly/2pXMNPb)
 -
 店铺`各负责人介绍`  `货源说明` `为什么不直接上架`
 -
@@ -51,11 +53,10 @@
 
 
 
-
-
 购买链接
 -
-[价格单](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=231952237768)
+[价格单-淘宝](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=231952237768)
+[价格单-telegra-ph](https://bit.ly/2pXMNPb)
 
 [店铺链接](https://shop124652346.taobao.com)  
 
@@ -79,7 +80,9 @@
 ![image](https://github.com/Kabukichoichi/kabukicho/blob/master/%E5%88%BA%E6%BF%80%E5%BA%A6/Magic%20Eyes.png)
 
 
-
-[公益梯子、机场、SS、SSR](https://www.yahahanpo.com)  
+公益梯子、机场、SS、SSR
 -
+[机场1](https://www.yahahanpo.com)  
+[机场2](https://t.me/ngcss) 
+
 
