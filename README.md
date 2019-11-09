@@ -74,6 +74,7 @@
 
 [Telegram](https://t.me/YLS104)  
 
+[博客（包含评测）](https://kabukichoichi.blogspot.com/)  
 
 刺激度展示
 -
