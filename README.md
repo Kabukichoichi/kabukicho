@@ -7,7 +7,7 @@
 
 部分网站需要[翻墙](https://zhidao.baidu.com/question/424709092060414212.html)，可参考本页底部“公益梯子”
 
-[价格单-淘宝](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=231952237768)
+[价格单-石墨](https://shimo.im/sheets/QjtgPvctkYTW6Q8X/L1qpj)
 -
 [价格单-telegra-ph](https://bit.ly/2pXMNPb)
 -
@@ -55,7 +55,7 @@
 
 购买链接
 -
-[价格单-淘宝](https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&contentId=231952237768)
+[价格单-石墨](https://shimo.im/sheets/QjtgPvctkYTW6Q8X/L1qpj)
 
 [价格单-telegra-ph](https://bit.ly/2pXMNPb)
 
@@ -68,7 +68,7 @@
 -
 [微博](https://weibo.com/p/1005057188012002/home?from=page_100505&mod=TAB&is_all=1#place)  
 
-[Twitter](https://mobile.twitter.com/104YLS)  
+[Twitter](https://mobile.twitter.com/YLS104Z)  
 
 [知乎](https://www.zhihu.com/people/dddddd-60-78/activities)  
 
