@@ -3,13 +3,22 @@
 淘宝网：歌舞伎町一丁目
 -
 我们是一家日本飞机杯、倒模、自慰器品牌的折扣店铺（我们的整体毛利率是低于14%的，大部分商品的毛利率只有1%~11%，而其他同行的毛利率远高于这个水平。），
-主销 「[对子哈特](http://www.toysheart.asia)」「[NPG](https://www.ms-online.co.jp/maker-npg/)」「[EXE](https://www.ms-online.co.jp/maker-gproject/)」「[Magic Eyes](http://magiceyes.jp)」「[Tamatoys](https://www.ms-online.co.jp/maker-tamatoys/)」「[A-ONE](https://www.ms-online.co.jp/maker-aone/)」「[RIDE JAPAN](https://www.ms-online.co.jp/maker-ridejapan/)」
+主销 
+「[对子哈特](http://www.toysheart.asia)」
+「[NPG](https://www.ms-online.co.jp/maker-npg/)」
+「[EXE](https://www.ms-online.co.jp/maker-gproject/)」
+「[Magic Eyes](http://magiceyes.jp)」
+「[Tamatoys](https://www.ms-online.co.jp/maker-tamatoys/)」
+「[A-ONE](https://www.ms-online.co.jp/maker-aone/)」
+「[RIDE JAPAN](https://www.ms-online.co.jp/maker-ridejapan/)」
+「[WildOne](https://www.wildone.co.jp/products/list.php?category_id=44)」
+「[maccos](https://maccos.jp/category/maccos_all/onaho/)」
+「[System JO](http://www.systemjo.com/)」
 
 部分网站需要[翻墙](https://zhidao.baidu.com/question/424709092060414212.html)，可参考本页底部“公益梯子”
 
 [价格单-石墨](https://shimo.im/sheets/QjtgPvctkYTW6Q8X/L1qpj)
--
-[价格单-telegra-ph](https://bit.ly/2pXMNPb)
+
 -
 店铺`各负责人介绍`  `货源说明` `为什么不直接上架`
 -
@@ -42,6 +51,8 @@
 
 评测论坛
 -
+[本店整理博客](https://kabukichoichi.blogspot.com/)
+
 [飞机杯之家](https://www.maifjb.com/)
 
 [和合晟](http://bbs.hehesheng.com/)
@@ -53,20 +64,19 @@
 
 
 
+
 购买链接
 -
 [价格单-石墨](https://shimo.im/sheets/QjtgPvctkYTW6Q8X/L1qpj)
 
-[价格单-telegra-ph](https://bit.ly/2pXMNPb)
-
 [店铺链接](https://shop124652346.taobao.com)  
 
-[购买链接](https://item.taobao.com/item.htm?spm=id=584929599371)  
+[购买链接](https://shop124652346.taobao.com/search.htm?spm=a1z10.3-c.w4002-17811677544.5.42a07b15sUNYI5&_ksTS=1597474428676_154&callback=jsonp155&mid=w-17811677544-0&wid=17811677544&path=%2Fsearch.htm&orderType=hotsell_desc)  
 
 
 各平台链接
 -
-[微博](https://weibo.com/p/1005057188012002/home?from=page_100505&mod=TAB&is_all=1#place)  
+[微博](https://weibo.com/p/1005057188012002)  
 
 [Twitter](https://mobile.twitter.com/YLS104Z)  
 
@@ -74,12 +84,18 @@
 
 [Telegram](https://t.me/YLS104)  
 
+[哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://space.bilibili.com/626150297)  
+
 [博客（包含评测）](https://kabukichoichi.blogspot.com/)  
 
-刺激度展示
+按刺激度购买
 -
-![image](https://github.com/Kabukichoichi/kabukicho/blob/master/%E5%88%BA%E6%BF%80%E5%BA%A6/%E5%AF%B9%E5%AD%90%E5%93%88%E7%89%B9.png)
-![image](https://github.com/Kabukichoichi/kabukicho/blob/master/%E5%88%BA%E6%BF%80%E5%BA%A6/Magic%20Eyes.png)
+[慢玩](https://item.taobao.com/item.htm?id=613305164403)  
+[刺激](https://item.taobao.com/item.htm?id=613825814845)  
+
+
+![image](https://zh.wikipedia.org/wiki/File:Kabukicho_Ichibangai_2.jpg)
+
 
 
 公益梯子、机场、SS、SSR
