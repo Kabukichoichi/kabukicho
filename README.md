@@ -84,7 +84,7 @@
 
 [Telegram](https://t.me/YLS104)  
 
-[哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://space.bilibili.com/626150297)  
+[哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://space.bilibili.com/626150297/dynamic)  
 
 [博客（包含评测）](https://kabukichoichi.blogspot.com/)  
 
