@@ -94,7 +94,7 @@
 [刺激](https://item.taobao.com/item.htm?id=613825814845)  
 
 
-![image](https://zh.wikipedia.org/wiki/File:Kabukicho_Ichibangai_2.jpg)
+![image](https://upload.wikimedia.org/wikipedia/commons/2/23/Kabukicho_Ichibangai_2.jpg)
 
 
 
