@@ -86,8 +86,7 @@
 
 [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://space.bilibili.com/626150297/dynamic)  
 
-[博客（包含评价）] （https://kabukichoichi.blogspot.com/）  
-
+[博客（包含评价）](https://kabukichoichi.blogspot.com/)  
 
 微信公众号：歌舞伎町一丁目
 
