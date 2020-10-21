@@ -75,11 +75,11 @@
 
 [淘宝店铺链接](https://shop124652346.taobao.com)  
 
-[微店链接](https://weidian.com/?userid=314117500)  
+[微店链接（东西全）](https://weidian.com/?userid=314117500)  
 
 [淘宝购买链接](https://shop124652346.taobao.com/search.htm?spm=a1z10.3-c.w4002-17811677544.5.42a07b15sUNYI5&_ksTS=1597474428676_154&callback=jsonp155&mid=w-17811677544-0&wid=17811677544&path=%2Fsearch.htm&orderType=hotsell_desc)  
 
-[微店购买链接](https://weidian.com/item.html?itemID=2181255322)  
+[微店购买链接（东西全）](https://weidian.com/item.html?itemID=2181255322)  
 
 
 
