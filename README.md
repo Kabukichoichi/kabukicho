@@ -93,6 +93,10 @@
 
 [Telegram](https://t.me/YLS104)  
 
+[歌舞伎町一丁目 Discord](https://discord.gg/SECAXKYyu2)  
+
+[侘寂水下稲荷大社](https://discord.gg/YPcbsuG)  
+ 
 [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://space.bilibili.com/626150297/dynamic)  
 
 [博客（包含评价）](https://kabukichoichi.blogspot.com/)  
