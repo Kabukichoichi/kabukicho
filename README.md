@@ -87,7 +87,7 @@
 -
 [微博](https://weibo.com/p/1005057188012002)  
 
-[Twitter](https://mobile.twitter.com/YLS104Z)  
+[Twitter](https://mobile.twitter.com/KABUKICHO1CHI)  
 
 [知乎](https://www.zhihu.com/people/dddddd-60-78/activities)  
 
