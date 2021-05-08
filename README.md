@@ -70,15 +70,9 @@
 -
 [价格单-石墨](https://shimo.im/sheets/QjtgPvctkYTW6Q8X/L1qpj)
 
-[价格单-notion（搜索方便）](https://www.notion.so/2020-10-17-d64f8c1cc57740b4bebaaabea7ffe7ab)
-
 [淘宝店铺链接（支付宝，花呗通道）](https://shop124652346.taobao.com)  
 
 [微店链接（微信支付通道）](https://weidian.com/?userid=314117500)  
-
-[淘宝购买链接](https://shop124652346.taobao.com/search.htm?spm=a1z10.3-c.w4002-17811677544.5.42a07b15sUNYI5&_ksTS=1597474428676_154&callback=jsonp155&mid=w-17811677544-0&wid=17811677544&path=%2Fsearch.htm&orderType=hotsell_desc)  
-
-[微店购买链接（东西全）](https://weidian.com/item.html?itemID=2181255322)  
 
 
 
