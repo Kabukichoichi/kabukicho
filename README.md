@@ -17,8 +17,11 @@
 
 部分网站需要[翻墙](https://zhidao.baidu.com/question/424709092060414212.html)，可参考本页底部“公益梯子”
 
-[价格单-石墨](https://shimo.im/sheets/QjtgPvctkYTW6Q8X/L1qpj)
+价格单
+-
+[阿里云盘]：(https://www.aliyundrive.com/s/9wwqV9QzEBp)
 
+[腾讯文档]：(https://docs.qq.com/sheet/DSHRtS1JpVWh3bkZU)
 
 -
 店铺`各负责人介绍`  `货源说明` `为什么不直接上架`
@@ -67,8 +70,12 @@
 
 
 购买链接
+=
+价格单
 -
-[价格单-石墨](https://shimo.im/sheets/QjtgPvctkYTW6Q8X/L1qpj)
+[阿里云盘]：(https://www.aliyundrive.com/s/9wwqV9QzEBp)
+
+[腾讯文档]：(https://docs.qq.com/sheet/DSHRtS1JpVWh3bkZU)
 
 [淘宝店铺链接（支付宝，花呗通道）](https://shop124652346.taobao.com)  
 
@@ -84,7 +91,7 @@
 
 [知乎](https://www.zhihu.com/people/dddddd-60-78/activities)  
 
-[Telegram](https://t.me/YLS104)  
+[Telegram](https://t.me/KABUKICHOBOT)  
 
 [歌舞伎町一丁目 Discord](https://discord.gg/SECAXKYyu2)  
  
