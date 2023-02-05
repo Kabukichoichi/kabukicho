@@ -66,9 +66,8 @@
 
 购买链接
 =
-价格单
--
 [价格单](https://sheet.zohopublic.com/sheet/open/fwfv57040d9ce163340ed8e7a9e2ef4857429?sheet=Sheet1&range=A1)
+-
 
 [淘宝店铺链接（支付宝，花呗通道）](https://shop124652346.taobao.com)  
 
