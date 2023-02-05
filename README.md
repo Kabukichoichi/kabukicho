@@ -19,8 +19,7 @@
 
 价格单
 -
-[链接]：(https://sheet.zohopublic.com/sheet/open/fwfv57040d9ce163340ed8e7a9e2ef4857429?sheet=Sheet1&range=A1)
-
+[链接](https://sheet.zohopublic.com/sheet/open/fwfv57040d9ce163340ed8e7a9e2ef4857429?sheet=Sheet1&range=A1)
 -
 店铺`各负责人介绍`  `货源说明` `为什么不直接上架`
 -
@@ -69,7 +68,7 @@
 =
 价格单
 -
-[价格：(https://sheet.zohopublic.com/sheet/open/fwfv57040d9ce163340ed8e7a9e2ef4857429?sheet=Sheet1&range=A1)
+[价格单](https://sheet.zohopublic.com/sheet/open/fwfv57040d9ce163340ed8e7a9e2ef4857429?sheet=Sheet1&range=A1)
 
 [淘宝店铺链接（支付宝，花呗通道）](https://shop124652346.taobao.com)  
 
