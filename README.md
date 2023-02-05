@@ -19,9 +19,7 @@
 
 价格单
 -
-[阿里云盘]：(https://www.aliyundrive.com/s/9wwqV9QzEBp)
-
-[腾讯文档]：(https://docs.qq.com/sheet/DSHRtS1JpVWh3bkZU)
+[链接]：(https://sheet.zohopublic.com/sheet/open/fwfv57040d9ce163340ed8e7a9e2ef4857429?sheet=Sheet1&range=A1)
 
 -
 店铺`各负责人介绍`  `货源说明` `为什么不直接上架`
@@ -53,18 +51,16 @@
 
 
 
-评测论坛
+相关指南
 -
+
+[选购指南](http://blacktealab.com/?p=508)
+
+[玩家推荐](https://sheet.zohopublic.com/sheet/published/s7uiw54d716187c7f4bf4b0aa5b5cf2139a74)
+
+[备用指南](https://workdrive.zohopublic.com/writer/open/3eryw5e5b420e844748d6b276d0966395b8cb)
+
 [本店整理博客](https://kabukichoichi.blogspot.com/)
-
-[飞机杯之家](https://www.maifjb.com/)
-
-[和合晟](http://bbs.hehesheng.com/)
-
-[日本-购物网站（带评测）](https://www.ms-online.co.jp)
-
-
-
 
 
 
@@ -73,21 +69,15 @@
 =
 价格单
 -
-[阿里云盘]：(https://www.aliyundrive.com/s/9wwqV9QzEBp)
-
-[腾讯文档]：(https://docs.qq.com/sheet/DSHRtS1JpVWh3bkZU)
+[价格：(https://sheet.zohopublic.com/sheet/open/fwfv57040d9ce163340ed8e7a9e2ef4857429?sheet=Sheet1&range=A1)
 
 [淘宝店铺链接（支付宝，花呗通道）](https://shop124652346.taobao.com)  
 
 [微店链接（微信支付通道）](https://weidian.com/?userid=314117500)  
 
-
-
 各平台链接
 -
 [微博](https://weibo.com/p/1005057188012002)  
-
-[Twitter](https://mobile.twitter.com/KABUKICHO1CHI)  
 
 [知乎](https://www.zhihu.com/people/dddddd-60-78/activities)  
 
@@ -100,7 +90,6 @@
 [博客（包含评价）](https://kabukichoichi.blogspot.com/)  
 
 微信公众号：歌舞伎町一丁目
-
 
 
 按刺激度购买
